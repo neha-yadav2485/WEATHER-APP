@@ -54,7 +54,7 @@ It uses a **Weather API** to fetch real-time weather data and display it in a cl
 ## 📸 Preview
 
 <p align="center">
-  <img src="weather-preview.png" alt="Weather App Preview" width="350"/>
+  <img src="Weather app preview.png" alt="Weather App Preview" width="350"/>
 </p>
 
 ---
