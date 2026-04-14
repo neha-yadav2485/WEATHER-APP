@@ -24,6 +24,9 @@ This project is a **Weather Application** that allows users to search for any ci
 * 💧 Humidity
 * 📍 City name
 
+🔗 **Live Website:**  
+👉 https://weather-app-five-khaki-unyhqeuxy0.vercel.app
+
 It uses a **Weather API** to fetch real-time weather data and display it in a clean and user-friendly interface.
 
 ---
